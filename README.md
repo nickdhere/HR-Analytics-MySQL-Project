@@ -82,6 +82,6 @@ Please feel free to modify or adapt this code for your own projects as needed. I
 
 ## Author Information
 - Author: Nikhil
-- Email: [Your Email Address]
+- Email: dahiyanick44@gmail.com
 
 Thank you for using this MySQL COVID Project code. We hope you find it useful for your data analysis needs.
