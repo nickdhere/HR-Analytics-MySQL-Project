@@ -14,7 +14,7 @@ The project is divided into several sections, each addressing specific tasks and
 
 ### Data Cleaning
 - Removal of duplicate rows from the dataset.
-- Conversion of the "previous_year_rating" column from varchar to int datatype.
+- Checking the datatypes and fixing them.
 - Identification and handling of null values in the dataset.
 
 ### Data Analysis
